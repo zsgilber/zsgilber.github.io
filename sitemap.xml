@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>zsgilber.github.io/</loc>
-    <lastmod>2019-11-11T13:57:05-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>zsgilber.github.io/posts/my-first-pod/</loc>
     <lastmod>2019-11-11T13:57:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>zsgilber.github.io/posts/</loc>
+    <lastmod>2019-11-11T13:57:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>zsgilber.github.io/</loc>
     <lastmod>2019-11-11T13:57:05-07:00</lastmod>
   </url>
   
